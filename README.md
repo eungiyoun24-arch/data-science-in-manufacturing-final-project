@@ -1,1 +1,1 @@
-# data-science-in-manufacturing-final-project
+# Data Science in Manufacturing (ME 453) Final Project
